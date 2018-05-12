@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34615'
     url: http://www.gutenberg.org/2009/agents/34615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30450#The-Monk-of-Hambleton
 gutenberg_issued: '2009-11-11'
 gutenberg_type: Text
 identifiers:
